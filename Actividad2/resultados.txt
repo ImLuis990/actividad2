@@ -1,0 +1,3 @@
+Tamaño del array: 10000
+Número de pares: 24995169
+Tiempo de ejecución: 291105500 nanosegundos
